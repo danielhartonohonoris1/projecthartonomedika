@@ -5,6 +5,11 @@ TUTORIAL LOGIN/REGISTER UNTUK USER
 2.	Setelah masuk ke page register maka user akan mengisi username, email dan password lalu klik button register.
 3.	Setelah itu user akan masuk kembali ke page login untuk memasukan akun yang sudah didaftarkan.
 4.	Setelah mengisi data akun, user akan klik button login dan user akan masuk ke tampilan home dari website Hartono Medica.
+![image](https://github.com/user-attachments/assets/0d6ae404-338b-462b-bccb-9f7d2b071047)
+![image](https://github.com/user-attachments/assets/53f6d42f-f7b0-4d85-a5bb-b0a6b67ec214)
+![image](https://github.com/user-attachments/assets/86b37ce0-df34-4da5-8109-9329a7afe19e)
+
+
 
 
 
