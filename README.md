@@ -17,8 +17,8 @@ TUTORIAL LOGIN/REGISTER UNTUK ADMIN
 5.	Setelah itu akan masuk page admin dashboard.
 	
 akun admin yang sudah terdaftar di tabel admin postgres
-email : admin@gmail.com
-password : 12341234
+email : danieladmin@gmail.com
+password : 123456
 
 
 Mailer
@@ -26,10 +26,10 @@ Mailer
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=587
-MAIL_USERNAME=adangirawan00@gmail.com
-MAIL_PASSWORD=ldtmzimopkcorpes
+MAIL_USERNAME=hartonohonoris1212@gmail.com
+MAIL_PASSWORD=your_app_specific_password
 MAIL_ENCRYPTION=tls
-MAIL_FROM_ADDRESS="adangirawan00@gmail.com"
+MAIL_FROM_ADDRESS=hartonohonoris1212@gmail.com
 MAIL_FROM_NAME="${APP_NAME}"
 
 
